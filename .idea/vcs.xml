@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dirs/fl_chart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dirs/yagpdb-mave" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yagpdb-mave" vcs="Git" />
   </component>
 </project>
